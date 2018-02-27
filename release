@@ -1,0 +1,9 @@
+Origin: Filthy's Repo
+Label: Filthy's Repo
+Suite: stable
+Version: 1.0
+Codename: Decimation
+Architectures: iphoneos-arm
+Components: main
+Description: Filthy's Repo
+MD5Sum:
